@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Website URL
-<h2>(https://blogging-app-6f277.web.app)</h2>
+<h2 style="color:red">https://blogging-app-6f277.web.app</h2>
 
 ## Available Scripts
 
